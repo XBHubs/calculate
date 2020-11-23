@@ -1,0 +1,24 @@
+<resources> <string name="app_name">计算器</string>
+    <string name="txt0">0</string>
+    <string name="txt1">1</string>
+    <string name="txt2">2</string>
+    <string name="txt3">3</string>
+    <string name="txt4">4</string>
+    <string name="txt5">5</string>
+    <string name="txt6">6</string>
+    <string name="txt7">7</string>
+    <string name="txt8">8</string>
+    <string name="txt9">9</string>
+    <string name="txtPlus">+</string>
+    <string name="txtMinus">-</string>
+    <string name="txtMul">*</string>
+    <string name="txtDiv">/</string>
+    <string name="txtDot">.</string>
+    <string name="txtEqu">=</string>
+    <string name="txtPow">^</string>
+    <string name="txtSqr">√</string>
+    <string name="txtJc">n</string>
+    <string name="txtPer">%</string>
+    <string name="txtClear">清空</string>
+    <string name="txtdel">回退</string>
+</resources>
